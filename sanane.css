@@ -1,0 +1,96 @@
+.navbar {
+    background-color: #16377e !important;
+    
+} 
+.navbar-brand {
+    color: white !important;
+}
+.nav-link {
+    color: white !important;
+}
+.container {
+    color: white
+}
+
+.crypto {
+    background-color: #16377e;
+}
+.img {
+    width: 90%;
+}
+.head1 {
+    padding: 120px;
+}
+.main {
+    background-color: #16377e;
+}
+.button {
+    background-color: #00bbf0;
+    color: white;
+    height: 45px;
+    width: 170px;
+    border: none;
+}
+.cards
+{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+}
+.card
+{
+    padding: 50px;
+    background-color: #f8f8f9 !important;
+    border: none !important;
+}
+.logo
+{
+    width: 120px;
+    margin: 0 auto;
+}
+.btn-card
+{
+    background: none !important;
+    border: none !important;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+}
+.why_choose_us
+{
+    text-align: center;
+}
+
+.expert {
+    font-weight: bolder;
+}   
+.cevre
+{
+    border: solid 3px black;
+    border-radius: 150px;
+    padding: 20px;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+.our_team
+{
+    background-color: #16377e;
+    padding: 50px 0;
+    margin-top: 50px;
+}
+.team-card {
+    background-color: #294580 !important;
+    text-align: center;
+    border-radius: 10px;
+    height: 350px;
+    padding-top:50px ;
+}
+.logo-t
+{
+    border-radius: 120px;
+    width: 130px;
+    margin-bottom: 25px;
+}

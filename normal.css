@@ -1,0 +1,34 @@
+.card
+    {
+        background-color: white;
+    }
+    .img1
+    {
+        border-radius: 50px;
+    }
+    .img1-d
+    {
+        display: flex;
+        justify-content: center;
+    }
+    .btn1
+    {
+        background-color: black;
+        color: white;
+        width: 150px;
+        border-radius: 50px;
+        height: 50px;
+    }
+    .imges
+    {
+        display: flex;
+        justify-content: space-around;
+    }
+    .yaz
+    {
+        font-weight: bold;
+    }
+    .yaz1
+    {
+        margin-right: 6px;
+    }
